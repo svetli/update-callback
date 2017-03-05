@@ -1,0 +1,28 @@
+{
+  "name": "update-callback",
+  "version": "1.0.0",
+  "description": "Running callbacks in specific order based on their priority",
+  "license": "MIT",
+  "repository": "svetli/update-callback",
+  "author": {
+    "name": "Svetli Nikolov",
+    "email": "me@svetli.name",
+    "url": "svetli.name"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
